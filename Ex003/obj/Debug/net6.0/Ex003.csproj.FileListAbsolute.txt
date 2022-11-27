@@ -1,0 +1,15 @@
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/bin/Debug/net6.0/Ex003
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/bin/Debug/net6.0/Ex003.deps.json
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/bin/Debug/net6.0/Ex003.runtimeconfig.json
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/bin/Debug/net6.0/Ex003.dll
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/bin/Debug/net6.0/Ex003.pdb
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/obj/Debug/net6.0/Ex003.csproj.AssemblyReference.cache
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/obj/Debug/net6.0/Ex003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/obj/Debug/net6.0/Ex003.AssemblyInfoInputs.cache
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/obj/Debug/net6.0/Ex003.AssemblyInfo.cs
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/obj/Debug/net6.0/Ex003.csproj.CoreCompileInputs.cache
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/obj/Debug/net6.0/Ex003.dll
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/obj/Debug/net6.0/refint/Ex003.dll
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/obj/Debug/net6.0/Ex003.pdb
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/obj/Debug/net6.0/Ex003.genruntimeconfig.cache
+/Users/dimasemenov/Desktop/repo/Examples/Ex003/obj/Debug/net6.0/ref/Ex003.dll
